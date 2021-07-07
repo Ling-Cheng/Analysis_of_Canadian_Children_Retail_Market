@@ -12,5 +12,3 @@ Business Objectives:
 *	To decide the price strategies based on the income groups
 *	To find out the languages used for advertising
 *	To assess the potential of opening an instore or online mobile phone service
-
-# Technical Overview #
